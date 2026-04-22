@@ -1,4 +1,5 @@
 What is Machine Learning?
+
 Machine Learning is a field of AI where systems learn patterns from data and make predictions or decisions without being explicitly programmed.
 
 Instead of writing rules:
